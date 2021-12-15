@@ -1,5 +1,6 @@
 # Pokemon-Homepage
-A homepage for a fake pokemon game
+A homepage for a fake pokemon game and
+when mouse hovers on menu
+it expands.
 
-I made this homepage as a way to test
-out my CSS skills. I added a side menu-bar that when hovered on it expands.
+This showcases my CSS
